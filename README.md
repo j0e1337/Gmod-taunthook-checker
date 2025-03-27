@@ -3,3 +3,7 @@ So basically if the *act dance* stuff won't work even enabled in the settings, t
 It checks in addons, lua/autorun and gamemodes. It won't check Workshop addons.
 
 > *Keep in mind: change only something in a gamemode if you know what you're doing!*
+
+**Installation:** simply drop the file into lua/autorun/server
+
+
