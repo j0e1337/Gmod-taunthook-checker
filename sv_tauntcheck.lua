@@ -25,4 +25,4 @@ if SERVER then
     end)
 end
 
-print("JoeBigJohnson's taunthook finder loaded!") --remove if you want lol
+print("[JoeBigJohnsonß] taunthook checker loaded!") --remove if you want lol
